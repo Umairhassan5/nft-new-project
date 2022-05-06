@@ -1,0 +1,15 @@
+{
+    "name": "Amol",
+    "symbol": "AM",
+    "image": "0.png",
+    "properties": {
+        "files":[{
+            "url": "0.png",
+            "type": "image/png"
+        }],
+        "creators": [{
+            "address": "3GqYje8iRtokEoswogT3ff5u2e2LAhCFwdidax4jkqMo",
+            "share": 100
+        }]
+    }
+}
